@@ -7,6 +7,11 @@
 - [Jupyter Notebooks]
 - [Qwiklabs]
 
+[stack overflow]: https://stackoverflow.com/
+[codeblocks]: http://www.codeblocks.org/
+[jupyter notebooks]: https://jupyter.org/
+[qwiklabs]: https://www.qwiklabs.com/
+
 ## WHAT YOU WILL LEARN
 
 - Automate tasks by writing Python scripts
@@ -71,11 +76,3 @@
 - [ ] [**Week 22**](Course_6/Week_22)
 - [ ] [**Week 23**](Course_6/Week_23)
 - [ ] [**Week 24**](Course_6/Week_24)
-
-[stack overflow]: https://stackoverflow.com/
-[codeblocks]: http://www.codeblocks.org/
-[jupyter notebooks]: https://jupyter.org/
-[qwiklabs]: https://www.qwiklabs.com/
-[the python tutorial]: https://docs.python.org/3/tutorial/index.html
-[think python]: https://greenteapress.com/wp/think-python-2e/
-[official python language reference]: https://docs.python.org/3/reference/index.html
