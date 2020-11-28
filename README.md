@@ -46,8 +46,14 @@
 
 ### [Course 2&emsp;Using Python to Interact with the Operating System](Course_2/)
 
+- [x] [**Week 1**](Course_2/Week_1)
+- [ ] [**Week 2**](Course_2/Week_2)
+- [ ] [**Week 3**](Course_2/Week_3)
+- [ ] [**Week 4**](Course_2/Week_4)
+- [ ] [**Week 5**](Course_2/Week_5)
+- [ ] [**Week 6**](Course_2/Week_6)
 - [ ] [**Week 7**](Course_2/Week_7)
-- [ ] [**Week 8**](Course_2/Week_8)
+
 
 ### [Course 3&emsp;Introduction to Git and GitHub](Course_3/)
 
