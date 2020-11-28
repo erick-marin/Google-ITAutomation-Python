@@ -4,12 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
+pillow = "*"
 
 [dev-packages]
+autopep8 = "*"
 pylint = "*"
 pycodestyle = "*"
 pydocstyle = "*"
-autopep8 = "*"
 mypy = "*"
 pytest = "*"
 
