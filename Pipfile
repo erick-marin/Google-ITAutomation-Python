@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pandas = "*"
 pillow = "*"
+psutil = "*"
+requests = "*"
 
 [dev-packages]
 autopep8 = "*"
