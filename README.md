@@ -47,7 +47,7 @@
 ### [Course 2&emsp;Using Python to Interact with the Operating System](Course_2/)
 
 - [x] [**Week 1**](Course_2/Week_1) Getting Your Python On
-- [x] [**Week 2**](Course_2/Week_2) Managing Files with Python
+- [ ] [**Week 2**](Course_2/Week_2) Managing Files with Python
 - [ ] [**Week 3**](Course_2/Week_3) Regular Expressions
 - [ ] [**Week 4**](Course_2/Week_4) Managing Data Processes
 - [ ] [**Week 5**](Course_2/Week_5) Testing in Python
