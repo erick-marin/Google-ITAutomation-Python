@@ -59,28 +59,28 @@
 
 ### [Course 3&emsp;Introduction to Git and GitHub](Course_3/)
 
-- [ ] [**Week 9**](Course_3/Week_9)
-- [ ] [**Week 10**](Course_3/Week_10)
-- [ ] [**Week 11**](Course_3/Week_11)
-- [ ] [**Week 12**](Course_3/Week_12)
+- [ ] [**Week 1**](Course_3/Week_1) Introduction to Version Control
+- [ ] [**Week 2**](Course_3/Week_2) Use Git Locally
+- [ ] [**Week 3**](Course_3/Week_3) Working with Remotes
+- [ ] [**Week 4**](Course_3/Week_4) Collaboration
 
 ### [Course 4&emsp;Troubleshooting and Debugging Techniques](Course_4/)
 
-- [ ] [**Week 13**](Course_4/Week_13)
-- [ ] [**Week 14**](Course_4/Week_14)
-- [ ] [**Week 15**](Course_4/Week_15)
-- [ ] [**Week 16**](Course_4/Week_16)
+- [ ] [**Week 1**](Course_4/Week_1) Troubleshooting Concepts
+- [ ] [**Week 2**](Course_4/Week_2) Slowness
+- [ ] [**Week 3**](Course_4/Week_3) Crashing Programs
+- [ ] [**Week 4**](Course_4/Week_4) Managinge Resources
 
 ### [Course 5&emsp;Configuration Management and the Cloud](Course_5/)
 
-- [ ] [**Week 17**](Course_5/Week_17)
-- [ ] [**Week 18**](Course_5/Week_18)
-- [ ] [**Week 19**](Course_5/Week_19)
-- [ ] [**Week 20**](Course_5/Week_20)
+- [ ] [**Week 1**](Course_5/Week_1) Automating with Configuration Management
+- [ ] [**Week 2**](Course_5/Week_2) Deploying Puppet
+- [ ] [**Week 3**](Course_5/Week_3) Automation in the Cloud
+- [ ] [**Week 4**](Course_5/Week_4) Managing Cloud Instances at Scale
 
 ### [Course 6&emsp;Automating Real-World Tasks with Python](Course_6/)
 
-- [ ] [**Week 21**](Course_6/Week_21)
-- [ ] [**Week 22**](Course_6/Week_22)
-- [ ] [**Week 23**](Course_6/Week_23)
-- [ ] [**Week 24**](Course_6/Week_24)
+- [ ] [**Week 21**](Course_6/Week_1) Manipulating Images
+- [ ] [**Week 22**](Course_6/Week_2) Interacting with Web Services
+- [ ] [**Week 23**](Course_6/Week_3) Automatic Output Generation
+- [ ] [**Week 24**](Course_6/Week_4) Putting It All Together
