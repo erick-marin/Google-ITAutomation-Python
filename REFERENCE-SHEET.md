@@ -129,11 +129,20 @@
 [`os.path` Module]: https://docs.python.org/3/library/os.path.html
 [Unix Time]: https://en.wikipedia.org/wiki/Unix_time
 
-
-
 ## Reading and Writing CSV Files
 - [CSV File Reading and Writing].
 - [Reading and Writing CSV Files in Python]
 
 [CSV File Reading and Writing]: https://docs.python.org/3/library/csv.html
 [Reading and Writing CSV Files in Python]: https://realpython.com/python-csv/
+
+## Regular Expressions
+
+- [Regular Expression HOWTO]
+- [re - Regular expression operations]
+- [Greedy versus Non-Greedy]
+
+[Regular Expression HOWTO]: https://docs.python.org/3/howto/regex.html
+[re - Regular expression operations]: https://docs.python.org/3/library/re.html
+[Greedy versus Non-Greedy]:https://docs.python.org/3/howto/regex.html#greedy-versus-non-greedy
+
