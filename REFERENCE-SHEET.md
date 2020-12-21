@@ -146,3 +146,10 @@
 [re - Regular expression operations]: https://docs.python.org/3/library/re.html
 [Greedy versus Non-Greedy]:https://docs.python.org/3/howto/regex.html#greedy-versus-non-greedy
 
+## Input Functions
+
+- [`input` Function]
+- [`eval` Function]
+
+[`input` Function]: https://docs.python.org/3/library/functions.html#input
+[`eval` Function]: https://docs.python.org/3/library/functions.html#eval
