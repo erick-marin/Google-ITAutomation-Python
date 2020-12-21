@@ -7,13 +7,14 @@ Date: 11/27/2020
 
 # Practice Quiz: Running Python Locally
 #
-# 1. When your IDE automatically creates an indent for you, this is known as what?
+# 1. When your IDE automatically creates an indent for you, this is known as
+# what?
 #
 # [x] Code completion
 # [ ] Syntax highlighting
 # [ ] Code reuse
 # [ ] Interpreted language
-#
+
 # 2. Can you identify the error in the following code?
 #
 #     #!/usr/bin/env python3
@@ -29,21 +30,22 @@ Date: 11/27/2020
 # [ ] The function is not indented properly.
 # [x] The y variable is not calling the numpy module properly.
 # [ ] numpy is not imported correctly because as is used.
-#
-# 3. Which type of programming language is read and converted to machine code before runtime, allowing for more efficient code?
+
+# 3. Which type of programming language is read and converted to machine code
+# before runtime, allowing for more efficient code?
 #
 # [ ]Object-oriented language
 # [x]Compiled language
 # [ ]Interpreted language
 # [ ]Intermediate code
-#
+
 # 4. Which of the following is not an IDE or code editor?
 #
 # [ ] Eclipse
 # [x] pip
 # [ ] Atom
 # [ ] PyCharm
-#
+
 # 5. What does the PATH variable do?
 #
 # [x] Tells the operating system where to find executables

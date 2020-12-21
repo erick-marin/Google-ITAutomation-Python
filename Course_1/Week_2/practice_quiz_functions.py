@@ -4,10 +4,10 @@ This script is used for course notes.
 Author: Erick Marin
 Date: 10/08/2020
 """
+
 # Practice Quiz: Functions
 #
-# Question 1
-# This function converts miles to kilometers (km).
+# 1. This function converts miles to kilometers (km).
 #
 # 1. Complete the function to return the result of the conversion
 # 2. Call the function to convert the trip distance from miles to kilometers
@@ -36,8 +36,7 @@ print("The distance in kilometers is " + str(my_trip_km))
 # in the blank to print the result
 print("The round-trip in kilometers is " + str(my_trip_km * 2))
 
-# Question 2
-# This function compares two numbers and returns them in increasing order.
+# 2. This function compares two numbers and returns them in increasing order.
 #
 # Fill in the blanks, so the print statement displays the result of the
 # function call in order.
@@ -60,16 +59,14 @@ def order_numbers(number1, number2):
 smaller, bigger = order_numbers(100, 99)
 print(smaller, bigger)
 
-# Question 3
-# What are the values passed into functions as input called?
+# 3. What are the values passed into functions as input called?
 #
 # [ ] Variables
 # [ ] Return values
 # [x] Parameters
 # [ ] Data types
 
-# Question 4
-# Let's revisit our lucky_number function. We want to change it, so that
+# 4. Let's revisit our lucky_number function. We want to change it, so that
 # instead of printing the message, it returns the message. This way, the
 # calling line can print the message, or do something else with it if needed.
 # Fill in the blanks to complete the code to make it work.
@@ -85,8 +82,7 @@ def lucky_number(name):
 print(lucky_number("Kay"))
 print(lucky_number("Cameron"))
 
-# Question 5
-# What is the purpose of the def keyword?
+# 5. What is the purpose of the def keyword?
 #
 # [x] Used to define a new function
 # [ ] Used to define a return value

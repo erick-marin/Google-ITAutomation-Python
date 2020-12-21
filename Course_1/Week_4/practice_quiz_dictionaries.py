@@ -7,8 +7,7 @@ Date: 10/21/2020
 
 # Practice Quiz: Dictionaries
 #
-# Question 1
-# The email_list function receives a dictionary, which contains domain names
+# 1. The email_list function receives a dictionary, which contains domain names
 # as keys, and a list of users as values. Fill in the blanks to generate a
 # list that contains complete email addresses (e.g. diana.prince@gmail.com).
 
@@ -26,8 +25,7 @@ print(email_list({"gmail.com": ["clark.kent", "diana.prince", "peter.parker"],
                   ["bruce.wayne"]}))
 
 
-# Question 2
-# The groups_per_user function receives a dictionary, which contains group
+# 2. The groups_per_user function receives a dictionary, which contains group
 # names with the list of users. Users can belong to multiple groups. Fill in
 # the blanks to return a dictionary with the users as keys and a list of their
 # groups as values.
@@ -49,10 +47,9 @@ print(groups_per_user({"local": ["admin", "userA"],
                        "public":  ["admin", "userB"],
                        "administrator": ["admin"]}))
 
-# Question 3
-# The dict.update method updates one dictionary with the items coming from the
-# other dictionary, so that existing entries are replaced and new entries are
-# added. What is the content of the dictionary “wardrobe“ at the end of the
+# 3. The dict.update method updates one dictionary with the items coming from
+# the other dictionary, so that existing entries are replaced and new entries
+# are added. What is the content of the dictionary “wardrobe“ at the end of the
 # following code?
 
 # wardrobe = {'shirt': ['red', 'blue', 'white'], 'jeans': ['blue', 'black']}
@@ -64,16 +61,14 @@ print(groups_per_user({"local": ["admin", "userA"],
 # [ ] - {'shirt': ['red', 'blue', 'white'], 'jeans': ['blue', 'black', 'white'], 'scarf': ['yellow'], 'socks': ['black', 'brown']}
 # [ ] - {'shirt': ['red', 'blue', 'white'], 'jeans': ['blue', 'black'], 'jeans': ['white'], 'scarf': ['yellow'], 'socks': ['black', 'brown']}
 
-# Question 4
-# What’s a major advantage of using dictionaries over lists?
+# 4. What’s a major advantage of using dictionaries over lists?
 #
 # [ ] - Dictionaries are ordered sets
 # [ ] - Dictionaries can be accessed by the index number of the element
 # [ ] - Elements can be removed and inserted into dictionaries
 # [x] - It’s quicker and easier to find a specific element in a dictionary
 
-# Question 5
-# The add_prices function returns the total price of all of the groceries in
+# 5. The add_prices function returns the total price of all of the groceries in
 # the dictionary. Fill in the blanks to complete this function.
 
 

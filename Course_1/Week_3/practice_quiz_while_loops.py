@@ -7,8 +7,7 @@ Date: 10/11/2020
 
 # Practice Quiz: While Loops
 
-# Question 1
-# What are while loops in Python?
+# 1. What are while loops in Python?
 #
 # [X] While loops let the computer execute a set of instructions while a
 #     condition is true.
@@ -18,7 +17,7 @@ Date: 10/11/2020
 #     true.
 # [ ] While loops are how we initialize variables in Python.
 
-# Fill in the blanks to make the print_prime_factors function print all the
+# 2. Fill in the blanks to make the print_prime_factors function print all the
 # prime factors of a number. A prime factor is a number that is prime and
 # divides another without a remainder.
 
@@ -43,9 +42,8 @@ print_prime_factors(100)
 # Should print 2,2,5,5
 # DO NOT DELETE THIS COMMENT
 
-# Question 3
-# The following code can lead to an infinite loop. Fix the code so that it can
-# finish successfully for all numbers.
+# 3. The following code can lead to an infinite loop. Fix the code so that it
+# can finish successfully for all numbers.
 #
 # Note: Try running your function with the number 0 as the input, and see what
 # you get!
@@ -66,9 +64,8 @@ print(is_power_of_two(1))  # Should be True
 print(is_power_of_two(8))  # Should be True
 print(is_power_of_two(9))  # Should be False
 
-# Question 4
-# Fill in the empty function so that it returns the sum of all the divisors of
-# a number, without including it. A divisor is a number that divides into
+# 4. Fill in the empty function so that it returns the sum of all the divisors
+# of a number, without including it. A divisor is a number that divides into
 # another without a remainder.
 
 
@@ -92,7 +89,7 @@ print(sum_divisors(36))  # Should sum of 1+2+3+4+6+9+12+18
 print(sum_divisors(102))  # Should be sum of 2+3+6+17+34+51
 # 114
 
-# The multiplication_table function prints the results of a number passed to
+# 5. The multiplication_table function prints the results of a number passed to
 # it multiplied by 1 through 5. An additional requirement is that the result
 # is not to exceed 25, which is done with the break statement. Fill in the
 # blanks to complete the function to satisfy these conditions.
@@ -107,8 +104,8 @@ def multiplication_table(number):
         # What is the additional condition to exit out of the loop?
         if result > 25:
             break
-        print(str(number) + "x" + str(multiplier) + "=" + str(result), \
-            end="\t")
+        print(str(number) + "x" + str(multiplier) + "=" + str(result),
+              end="\t")
         # Increment the variable for the loop
         multiplier += 1
     print("\n")

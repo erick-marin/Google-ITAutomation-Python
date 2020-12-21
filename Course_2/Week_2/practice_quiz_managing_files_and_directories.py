@@ -5,6 +5,8 @@ Author: Erick Marin
 Date: 11/28/2020
 """
 
+# Practice Quiz: Managing Files and Directories
+
 import os
 import datetime
 

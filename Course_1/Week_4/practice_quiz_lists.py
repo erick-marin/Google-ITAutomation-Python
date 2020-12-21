@@ -4,10 +4,10 @@ This script is used for course notes.
 Author: Erick Marin
 Date: 10/20/2020
 """
+
 # Practice Quiz: Lists
 #
-# Question 1
-# Given a list of filenames, we want to rename all the files with extension
+# 1. Given a list of filenames, we want to rename all the files with extension
 # hpp to the extension h. To do this, we would like to generate a new list
 # called newfilenames, consisting of the new filenames. Fill in the blanks in
 # the code using any of the methods you’ve learned thus far, like a for loop
@@ -22,8 +22,7 @@ newfilenames = [filename.replace("hpp", "h") if filename.endswith(
 print(newfilenames)
 # Should be ["program.c", "stdio.h", "sample.h", "a.out", "math.h", "hpp.out"]
 
-# Question 2
-# Let's create a function that turns text into pig latin: a simple text
+# 2. Let's create a function that turns text into pig latin: a simple text
 # # transformation that modifies each word moving the first character to the
 # end and appending "ay" to the end. For example, python ends up as ythonpay.
 
@@ -44,8 +43,7 @@ print(pig_latin("hello how are you"))  # Should be "ellohay owhay reaay ouyay"
 # Should be "rogrammingpay niay ythonpay siay unfay"
 print(pig_latin("programming in python is fun"))
 
-# Question 3
-# The permissions of a file in a Linux system are split into three sets of
+# 3. The permissions of a file in a Linux system are split into three sets of
 # three permissions: read, write, and execute for the owner, group, and
 # others. Each of the three values can be expressed as an octal number summing
 # each permission, with 4 corresponding to read, 2 to write, and 1 to execute.
@@ -78,17 +76,15 @@ print(octal_to_string(644))  # Should be rw-r--r--
 print(octal_to_string(750))  # Should be rwxr-x---
 print(octal_to_string(600))  # Should be rw-------
 
-# Question 4
-# Tuples and lists are very similar types of sequences. What is the main thing
-# that makes a tuple different from a list?
+# 4. Tuples and lists are very similar types of sequences. What is the main
+# thing that makes a tuple different from a list?
 #
 # [ ] - tuple is mutable
 # [ ] - tuple contains only numeric characters
 # [x] - tuple is immutable
 # [ ] - tuple can contain only one type of data at a time
 
-# Question 5
-# The group_list function accepts a group name and a list of members, and
+# 5. The group_list function accepts a group name and a list of members, and
 # returns a string with the format: group_name: member1, member2, … For
 # example, group_list("g", ["a","b","c"]) returns "g: a, b, c". Fill in the
 # gaps in this function to do that.
@@ -106,8 +102,7 @@ print(group_list("Engineering", ["Kim", "Jay", "Tom"]))
 print(group_list("Users", ""))  # Should be "Users:"
 
 
-# Question 6
-# The guest_list function reads in a list of tuples with the name, age, and
+# 6. The guest_list function reads in a list of tuples with the name, age, and
 # profession of each party guest, and prints the sentence "Guest is X years
 # old and works as __." for each one. For example, guest_list(('Ken', 30,
 # "Chef"), ("Pat", 35, 'Lawyer'), ('Amanda', 25, "Engineer")) should print
