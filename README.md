@@ -51,7 +51,7 @@
 - [x] [**Week 1**](Course_2/Week_1) Getting Your Python On
 - [x] [**Week 2**](Course_2/Week_2) Managing Files with Python
 - [x] [**Week 3**](Course_2/Week_3) Regular Expressions
-- [ ] [**Week 4**](Course_2/Week_4) Managing Data Processes
+- [x] [**Week 4**](Course_2/Week_4) Managing Data Processes
 - [ ] [**Week 5**](Course_2/Week_5) Testing in Python
 - [ ] [**Week 6**](Course_2/Week_6) Bash Scripting
 - [ ] [**Week 7**](Course_2/Week_7) Final Project
