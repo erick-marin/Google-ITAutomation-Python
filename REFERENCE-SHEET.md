@@ -153,3 +153,22 @@
 
 [`input` Function]: https://docs.python.org/3/library/functions.html#input
 [`eval` Function]: https://docs.python.org/3/library/functions.html#eval
+
+## `subprocess` Module
+
+ - [`subprocess` - Subprocess management]
+
+[`subprocess` - Subprocess management]: https://docs.python.org/3/library/subprocess.html
+
+ ## Unit Test
+
+ - [`unittest` Module]
+ - [Run Tests Using Command Line]
+ - [Unit Test Design Patterns]
+ - [Understand `assertRaises()`]
+
+[`unittest` Module]: https://docs.python.org/3/library/unittest.html
+[Run Tests Using Command Line]: https://docs.python.org/3/library/unittest.html#command-line-interface
+[Unit Test Design Patterns]: https://docs.python.org/3/library/unittest.html#organizing-test-code
+[Understand `assertRaises()`]: https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+
