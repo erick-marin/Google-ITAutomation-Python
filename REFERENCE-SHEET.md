@@ -172,3 +172,37 @@
 [Unit Test Design Patterns]: https://docs.python.org/3/library/unittest.html#organizing-test-code
 [Understand `assertRaises()`]: https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
 
+## Other Test Concepts
+
+- [Monitoring Distributed Systems]
+- [Testing for Reliability]
+- [Performance Testing]
+- [Smoke Testing]
+- [Exploratory Testing]
+- [Test-Driven Development]
+
+
+[Monitoring Distributed Systems]: https://sre.google/sre-book/monitoring-distributed-systems/
+[Testing for Reliability]: https://sre.google/sre-book/testing-reliability/
+[Performance Testing]: https://testing.googleblog.com/2007/10/performance-testing.html
+[Smoke Testing]: https://www.guru99.com/smoke-testing.html
+[Exploratory Testing]: https://www.guru99.com/exploratory-testing.html
+[Test-Driven Development]: https://testing.googleblog.com/2008/09/test-first-is-fun_08.html
+
+## Handling Errors
+
+- [Raising Esceptions]
+- [`assert` Statement]
+- [What is the use of “assert” in Python?]
+- [Handling Exceptions]
+- [Built-in Exceptions]
+- [Python Exception Handling Techniques
+]
+
+[Raising Esceptions]: https://docs.python.org/3/tutorial/errors.html#raising-exceptions
+[`assert` Statement]: https://docs.python.org/2/reference/simple_stmts.html#the-assert-statement
+[What is the use of “assert” in Python?]: https://stackoverflow.com/questions/5142418/what-is-the-use-of-assert-in-python
+[Handling Exceptions]: https://docs.python.org/2/tutorial/errors.html#handling-exceptions
+[Built-in Exceptions]: https://docs.python.org/3/library/exceptions.html#bltin-exceptions
+[Python Exception Handling Techniques
+]: https://doughellmann.com/blog/2009/06/19/python-exception-handling-techniques/
