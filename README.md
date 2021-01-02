@@ -52,9 +52,9 @@
 - [x] [**Week 2**](Course_2/Week_2) Managing Files with Python
 - [x] [**Week 3**](Course_2/Week_3) Regular Expressions
 - [x] [**Week 4**](Course_2/Week_4) Managing Data Processes
-- [ ] [**Week 5**](Course_2/Week_5) Testing in Python
-- [ ] [**Week 6**](Course_2/Week_6) Bash Scripting
-- [ ] [**Week 7**](Course_2/Week_7) Final Project
+- [x] [**Week 5**](Course_2/Week_5) Testing in Python
+- [x] [**Week 6**](Course_2/Week_6) Bash Scripting
+- [x] [**Week 7**](Course_2/Week_7) Final Project
 
 
 ### [Course 3&emsp;Introduction to Git and GitHub](Course_3/)
