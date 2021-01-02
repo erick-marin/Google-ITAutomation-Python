@@ -196,13 +196,27 @@
 - [What is the use of “assert” in Python?]
 - [Handling Exceptions]
 - [Built-in Exceptions]
-- [Python Exception Handling Techniques
-]
+- [Python Exception Handling Techniques]
 
 [Raising Esceptions]: https://docs.python.org/3/tutorial/errors.html#raising-exceptions
 [`assert` Statement]: https://docs.python.org/2/reference/simple_stmts.html#the-assert-statement
 [What is the use of “assert” in Python?]: https://stackoverflow.com/questions/5142418/what-is-the-use-of-assert-in-python
 [Handling Exceptions]: https://docs.python.org/2/tutorial/errors.html#handling-exceptions
 [Built-in Exceptions]: https://docs.python.org/3/library/exceptions.html#bltin-exceptions
-[Python Exception Handling Techniques
-]: https://doughellmann.com/blog/2009/06/19/python-exception-handling-techniques/
+[Python Exception Handling Techniques]: https://doughellmann.com/blog/2009/06/19/python-exception-handling-techniques/
+
+## Bash Commands
+
+- [Bash]
+- [Built-in Bash Commands and Utilities]
+- [101 Bash Commands and Tips for Beginners to Experts]
+- [Bash Scripting Tutorial - Ryan's Tutorials]
+- [Bash Scripting Tutorial for Beginners]
+- [Shell Scripting Tutorial]
+
+[Bash]: https://www.gnu.org/software/bash/manual/
+[Built-in Bash Commands and Utilities]: https://ss64.com/bash/
+[101 Bash Commands and Tips for Beginners to Experts]: https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
+[Bash Scripting Tutorial - Ryan's Tutorials]: https://ryanstutorials.net/bash-scripting-tutorial/
+[Bash Scripting Tutorial for Beginners]: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+[Shell Scripting Tutorial]: https://www.shellscript.sh/
