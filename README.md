@@ -59,7 +59,7 @@
 
 ### [Course 3&emsp;Introduction to Git and GitHub](Course_3/)
 
-- [ ] [**Week 1**](Course_3/Week_1) Introduction to Version Control
+- [x] [**Week 1**](Course_3/Week_1) Introduction to Version Control
 - [ ] [**Week 2**](Course_3/Week_2) Use Git Locally
 - [ ] [**Week 3**](Course_3/Week_3) Working with Remotes
 - [ ] [**Week 4**](Course_3/Week_4) Collaboration
