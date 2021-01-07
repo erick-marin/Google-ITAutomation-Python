@@ -229,7 +229,7 @@
 - [`diff` Command]
 - [`patch` Command]
 - [Git Documentation]
-- [Version Control]
+- [Version control]
 - [Git Cheat Sheet]
 - [`.gitignore` file]
 
