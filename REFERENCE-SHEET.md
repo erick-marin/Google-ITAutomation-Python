@@ -1,4 +1,4 @@
-# Python Reference Sheet
+# Reference Sheet
 
 ## Data Types
 
@@ -220,3 +220,20 @@
 [Bash Scripting Tutorial - Ryan's Tutorials]: https://ryanstutorials.net/bash-scripting-tutorial/
 [Bash Scripting Tutorial for Beginners]: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 [Shell Scripting Tutorial]: https://www.shellscript.sh/
+
+
+## Git
+
+- [Pro Git]
+- [Git Tutorial]
+- [`diff` Command]
+- [`patch` Command]
+- [Git Documentation]
+- [Version control]
+
+[Pro Git]: https://git-scm.com/book/en/v2
+[Git Tutorial]: https://git-scm.com/docs/gittutorial
+[`diff` Command]: https://man7.org/linux/man-pages/man1/diff.1.html
+[`patch` Command]: https://man7.org/linux/man-pages/man1/patch.1.html
+[Git Documentation]: https://git-scm.com/doc
+[Version Control]: https://en.wikipedia.org/wiki/Version_control
