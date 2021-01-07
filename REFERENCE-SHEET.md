@@ -229,9 +229,7 @@
 - [`diff` Command]
 - [`patch` Command]
 - [Git Documentation]
-- [Version Control]
-- [Git Cheat Sheet]
-- [`.gitignore` file]
+- [Version control]
 
 [Pro Git]: https://git-scm.com/book/en/v2
 [Git Tutorial]: https://git-scm.com/docs/gittutorial
@@ -239,5 +237,3 @@
 [`patch` Command]: https://man7.org/linux/man-pages/man1/patch.1.html
 [Git Documentation]: https://git-scm.com/doc
 [Version Control]: https://en.wikipedia.org/wiki/Version_control
-[Git Cheat Sheet]: https://training.github.com/downloads/github-git-cheat-sheet.pdf
-[`.gitignore` file]: https://git-scm.com/docs/gitignore
