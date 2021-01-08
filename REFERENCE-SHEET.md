@@ -238,6 +238,12 @@
 - [`git commit --amend` Command]
 - [`git revert` Command]
 - [Git Basics - Undoing Things]
+- [`git branch` Command]
+- [`git checkout` Command]
+- [`git merge` Command]
+- [`git log` Command]
+
+
 
 
 
@@ -255,5 +261,14 @@
 [`git commit --amend` Command]: https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---amend
 [`git revert` Command]: https://git-scm.com/docs/git-revert
 [Git Basics - Undoing Things]: https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things
+[`git branch` Command]: https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--D
+[`git checkout` Command]: https://git-scm.com/docs/git-checkout
+[`git merge` Command]: https://git-scm.com/docs/git-merge
+[`git log` Command]: https://git-scm.com/docs/git-log
+
+
+
+
+
 
 
