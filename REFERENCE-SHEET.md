@@ -232,6 +232,13 @@
 - [Version control]
 - [Git Cheat Sheet]
 - [`.gitignore` file]
+- [`git checkout` Command]
+- [`git reset` Command]
+- [`git commit --amend` Command]
+- [`git revert` Command]
+- [Git Basics - Undoing Things]
+
+
 
 [Pro Git]: https://git-scm.com/book/en/v2
 [Git Tutorial]: https://git-scm.com/docs/gittutorial
@@ -241,3 +248,10 @@
 [Version Control]: https://en.wikipedia.org/wiki/Version_control
 [Git Cheat Sheet]: https://training.github.com/downloads/github-git-cheat-sheet.pdf
 [`.gitignore` file]: https://git-scm.com/docs/gitignore
+[`git checkout` Command]: https://git-scm.com/docs/git-checkout
+[`git reset` Command]: https://jwiegley.github.io/git-from-the-bottom-up/3-Reset/4-doing-a-hard-reset.html
+[`git commit --amend` Command]: https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---amend
+[`git revert` Command]: https://git-scm.com/docs/git-revert
+[Git Basics - Undoing Things]: https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things
+
+
