@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def main():
-    pass
+    """Check if there's enough free memory in the computer."""
 
 
 main()
