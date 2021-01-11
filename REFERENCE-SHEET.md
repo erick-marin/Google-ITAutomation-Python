@@ -242,6 +242,8 @@
 - [`git checkout` Command]
 - [`git merge` Command]
 - [`git log` Command]
+- [Caching your GitHub credentials in Git]
+- [Connecting to GitHub with SSH]
 
 
 
@@ -265,7 +267,8 @@
 [`git checkout` Command]: https://git-scm.com/docs/git-checkout
 [`git merge` Command]: https://git-scm.com/docs/git-merge
 [`git log` Command]: https://git-scm.com/docs/git-log
-
+[Caching your GitHub credentials in Git]: https://docs.github.com/en/free-pro-team@latest/github/using-git/caching-your-github-credentials-in-git
+[Connecting to GitHub with SSH]: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
 
 
 
