@@ -244,10 +244,12 @@
 - [`git log` Command]
 - [Caching your GitHub credentials in Git]
 - [Connecting to GitHub with SSH]
-
-
-
-
+- [`git remote` Command]
+- [`git remote -v` Command]
+- [`git remote show <name>` Command]
+- [`git remote update` Command]
+- [`git fetch` Command]
+- [`git branch -r` Command]
 
 [Pro Git]: https://git-scm.com/book/en/v2
 [Git Tutorial]: https://git-scm.com/docs/gittutorial
@@ -269,6 +271,12 @@
 [`git log` Command]: https://git-scm.com/docs/git-log
 [Caching your GitHub credentials in Git]: https://docs.github.com/en/free-pro-team@latest/github/using-git/caching-your-github-credentials-in-git
 [Connecting to GitHub with SSH]: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
+[`git remote` Command]: https://git-scm.com/docs/g
+[`git remote -v` Command]: https://git-scm.com/docs/git-remote#Documentation/git-remote.txt--v
+[`git remote show <name>` Command]: https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem
+[`git remote update` Command]: https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emupdateem
+[`git fetch` Command]: https://git-scm.com/docs/git-fetch
+[`git branch -r` Command]: https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r
 
 
 
