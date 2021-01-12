@@ -278,8 +278,16 @@
 [`git fetch` Command]: https://git-scm.com/docs/git-fetch
 [`git branch -r` Command]: https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r
 
+# Git Conflict Resolution
+
+- [About merge conflicts]
+- [Resolving a merge conflict using the command line]
+- [Git Branching - Rebasing]
+- [Git Tools - Rewriting History]
 
 
-
-
+[About merge conflicts]: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
+[Resolving a merge conflict using the command line]: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line
+[Git Branching - Rebasing]: https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+[Git Tools - Rewriting History]: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
 
