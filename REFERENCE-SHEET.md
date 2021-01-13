@@ -171,7 +171,6 @@
 [Run Tests Using Command Line]: https://docs.python.org/3/library/unittest.html#command-line-interface
 [Unit Test Design Patterns]: https://docs.python.org/3/library/unittest.html#organizing-test-code
 [Understand `assertRaises()`]: https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
-
 ## Other Test Concepts
 
 - [Monitoring Distributed Systems]
@@ -180,7 +179,6 @@
 - [Smoke Testing]
 - [Exploratory Testing]
 - [Test-Driven Development]
-
 
 [Monitoring Distributed Systems]: https://sre.google/sre-book/monitoring-distributed-systems/
 [Testing for Reliability]: https://sre.google/sre-book/testing-reliability/
@@ -220,7 +218,6 @@
 [Bash Scripting Tutorial - Ryan's Tutorials]: https://ryanstutorials.net/bash-scripting-tutorial/
 [Bash Scripting Tutorial for Beginners]: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 [Shell Scripting Tutorial]: https://www.shellscript.sh/
-
 
 ## Git
 
@@ -278,16 +275,20 @@
 [`git fetch` Command]: https://git-scm.com/docs/git-fetch
 [`git branch -r` Command]: https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r
 
-# Git Conflict Resolution
+## Git Conflict Resolution
 
 - [About merge conflicts]
 - [Resolving a merge conflict using the command line]
 - [Git Branching - Rebasing]
 - [Git Tools - Rewriting History]
 
-
 [About merge conflicts]: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
 [Resolving a merge conflict using the command line]: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line
 [Git Branching - Rebasing]: https://git-scm.com/book/en/v2/Git-Branching-Rebasing
 [Git Tools - Rewriting History]: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
 
+## Collaboration on GitHub
+
+- [ About pull request merges]
+
+[ About pull request merges]: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges
