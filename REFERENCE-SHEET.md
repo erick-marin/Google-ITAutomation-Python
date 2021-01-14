@@ -292,3 +292,31 @@
 - [ About pull request merges]
 
 [ About pull request merges]: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges
+
+## Code Review
+
+- [Google Python Style Guide]
+- [About pull request reviews]
+- [The Perfect Code Review Process]
+- [What is Code Review]
+
+[Google Python Style Guide]: https://google.github.io/styleguide/pyguide.html
+[About pull request reviews]: https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews
+[The Perfect Code Review Process]: https://medium.com/osedea/the-perfect-code-review-process-845e6ba5c31
+[What is Code Review]: https://smartbear.com/learn/code-review/what-is-code-review/
+
+## Managing Projects
+
+- [Linking a pull request to an issue]
+- [Setting guidelines fo repository contributors]
+- [What is CI/CD? Continuous integration and continuous delivery explained]
+- [What Is CICD? What’s Important and How to Get It Right]
+- [Tracis CI Tutorial]
+- [Travis CI - Build Stages]
+
+[Linking a pull request to an issue]: https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue
+[Setting guidelines fo repository contributors]: https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/setting-guidelines-for-repository-contributors
+[What is CI/CD? Continuous integration and continuous delivery explained]: https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
+[What Is CICD? What’s Important and How to Get It Right]: https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/
+[Tracis CI Tutorial]: https://docs.travis-ci.com/user/tutorial/
+[Travis CI - Build Stages]: https://docs.travis-ci.com/user/build-stages/
