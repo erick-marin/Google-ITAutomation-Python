@@ -62,7 +62,7 @@
 - [x] [**Week 1**](Course_3/Week_1) Introduction to Version Control
 - [x] [**Week 2**](Course_3/Week_2) Use Git Locally
 - [x] [**Week 3**](Course_3/Week_3) Working with Remotes
-- [ ] [**Week 4**](Course_3/Week_4) Collaboration
+- [x] [**Week 4**](Course_3/Week_4) Collaboration
 
 ### [Course 4&emsp;Troubleshooting and Debugging Techniques](Course_4/)
 
