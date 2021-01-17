@@ -320,3 +320,36 @@
 [What Is CICD? What’s Important and How to Get It Right]: https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/
 [Tracis CI Tutorial]: https://docs.travis-ci.com/user/tutorial/
 [Travis CI - Build Stages]: https://docs.travis-ci.com/user/build-stages/
+
+## Monitoring Tools
+
+- [Windows - Process Monitor]
+- [Windows - Performance Monitor]
+- [Windows - Resource Monitor]
+- [Windows - Process Explorer]
+- [Linux Preformance]
+- [The USE Method]
+- [MacOS - Activity Monitor]
+- [Cache (computing)]
+
+[Windows - Process Monitor]: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+[Windows - Performance Monitor]: https://www.windowscentral.com/how-use-performance-monitor-windows-10
+[Windows - Resource Monitor]: https://www.digitalcitizen.life/how-use-resource-monitor-windows-7/
+[Windows - Process Explorer]: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
+[Linux Preformance]: http://www.brendangregg.com/linuxperf.html
+[The USE Method]: http://brendangregg.com/usemethod.html
+[MacOS - Activity Monitor]: https://support.apple.com/guide/activity-monitor/welcome/mac
+[Cache (computing)]: https://en.wikipedia.org/wiki/Cache_(computing)
+
+## Slow Code
+
+- [Profiling (Computer Programming)]
+- [Speed Up Your Python Program with Concurrency]
+- [Threaded Asynchronous Magic and How to Wield It]
+- [17 useful rsync (remote sync) Command Examples in Linux]
+
+
+[Profiling (Computer Programming)]: https://en.wikipedia.org/wiki/Profiling_(computer_programming)
+[Speed Up Your Python Program with Concurrency]: https://realpython.com/python-concurrency/
+[Threaded Asynchronous Magic and How to Wield It]: https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32
+[17 useful rsync (remote sync) Command Examples in Linux]: https://www.linuxtechi.com/rsync-command-examples-linux/
