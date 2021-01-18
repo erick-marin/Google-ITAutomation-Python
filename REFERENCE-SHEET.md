@@ -348,8 +348,29 @@
 - [Threaded Asynchronous Magic and How to Wield It]
 - [17 useful rsync (remote sync) Command Examples in Linux]
 
-
 [Profiling (Computer Programming)]: https://en.wikipedia.org/wiki/Profiling_(computer_programming)
 [Speed Up Your Python Program with Concurrency]: https://realpython.com/python-concurrency/
 [Threaded Asynchronous Magic and How to Wield It]: https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32
 [17 useful rsync (remote sync) Command Examples in Linux]: https://www.linuxtechi.com/rsync-command-examples-linux/
+
+## Understanding Crashes
+
+- [How to find crash logs, error logs on Windows 10 the easy way]
+- [How to View the System Log on a Mac]
+- [How to Check System Logs on Linux ]
+- [Windows - Process Monitor]
+- [Linux - Linux strace Command Tutorial for Beginners]
+- [How To Trace Your System Calls On Mac OS]
+
+[How to find crash logs, error logs on Windows 10 the easy way]: https://www.digitalmastersmag.com/magazine/tip-of-the-day-how-to-find-crash-logs-on-windows-10/
+[How to View the System Log on a Mac]: https://www.howtogeek.com/356942/how-to-view-the-system-log-on-a-mac/
+[How to Check System Logs on Linux ]: https://www.fosslinux.com/8984/how-to-check-system-logs-on-linux-complete-usage-guide.htm
+[Windows - Process Monitor]: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+[Linux - Linux strace Command Tutorial for Beginners]: https://www.howtoforge.com/linux-strace-command/
+[How To Trace Your System Calls On Mac OS]: https://etcnotes.com/posts/system-call/
+
+## Debugging Crashes
+
+- [Debugging Segmentation Faults]
+
+[Debugging Segmentation Faults]: https://sites.google.com/a/case.edu/hpcc/home/important-notes-for-new-users/debugging-segmentation-faults
