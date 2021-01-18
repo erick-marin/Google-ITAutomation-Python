@@ -8,6 +8,7 @@ pandas = "*"
 pillow = "*"
 psutil = "*"
 requests = "*"
+matplotlib = "*"
 
 [dev-packages]
 autopep8 = "*"
