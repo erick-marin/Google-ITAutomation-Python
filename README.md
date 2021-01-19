@@ -69,7 +69,7 @@
 - [x] [**Week 1**](Course_4/Week_1) Troubleshooting Concepts
 - [x] [**Week 2**](Course_4/Week_2) Slowness
 - [x] [**Week 3**](Course_4/Week_3) Crashing Programs
-- [ ] [**Week 4**](Course_4/Week_4) Managinge Resources
+- [x] [**Week 4**](Course_4/Week_4) Managinge Resources
 
 ### [Course 5&emsp;Configuration Management and the Cloud](Course_5/)
 
