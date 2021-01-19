@@ -374,3 +374,23 @@
 - [Debugging Segmentation Faults]
 
 [Debugging Segmentation Faults]: https://sites.google.com/a/case.edu/hpcc/home/important-notes-for-new-users/debugging-segmentation-faults
+
+## Managing Resources
+
+- [How to Profile Memory Usage in Python]
+- [Troubleshooting Network Problems]
+
+[How to Profile Memory Usage in Python]: https://www.pluralsight.com/blog/tutorials/how-to-profile-memory-usage-in-python
+[Troubleshooting Network Problems]: https://www.linuxjournal.com/content/troubleshooting-network-problems
+
+## Managing the Best Use of Our Time
+
+- [The “Everything is Important” paradox: 9 practical methods for how to prioritize your work (and time)]
+
+[The “Everything is Important” paradox: 9 practical methods for how to prioritize your work (and time)]: https://blog.rescuetime.com/how-to-prioritize/
+
+## Preventing Future Problems
+
+- [Effective Troubleshooting]
+
+[Effective Troubleshooting]: https://sre.google/sre-book/effective-troubleshooting/
