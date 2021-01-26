@@ -394,3 +394,25 @@
 - [Effective Troubleshooting]
 
 [Effective Troubleshooting]: https://sre.google/sre-book/effective-troubleshooting/
+
+## Configuration Management and the Cloud
+
+- [Puppet - Resources]
+- [Bolt]
+- [Domain Specific Language (DSL)]
+- [The Puppet design philosophy]
+- [The Puppet language style guide]
+- [Installing Puppet server]
+- [Puppet SSl explained]
+- [Puppet - RSPEC]
+- [puppet-lint]
+
+[Puppet - Resources]: https://puppet.com/docs/puppet/7.3/lang_resources.html
+[Bolt]: https://puppet.com/docs/bolt/latest/bolt.html
+[Domain Specific Language (DSL)]: https://en.wikipedia.org/wiki/Domain-specific_language
+[The Puppet design philosophy]: http://radar.oreilly.com/2015/04/the-puppet-design-philosophy.html
+[The Puppet language style guide]: https://puppet.com/docs/puppet/7.3/style_guide.html
+[Installing Puppet server]: https://puppet.com/docs/puppet/7.3/server/install_from_packages.html
+[Puppet SSl explained]: https://www.masterzen.fr/2010/11/14/puppet-ssl-explained/
+[Puppet - RSPEC]: https://rspec-puppet.com/tutorial/
+[puppet-lint]: http://puppet-lint.com/
