@@ -73,10 +73,10 @@
 
 ### [Course 5&emsp;Configuration Management and the Cloud](Course_5/)
 
-- [ ] [**Week 1**](Course_5/Week_1) Automating with Configuration Management
-- [ ] [**Week 2**](Course_5/Week_2) Deploying Puppet
-- [ ] [**Week 3**](Course_5/Week_3) Automation in the Cloud
-- [ ] [**Week 4**](Course_5/Week_4) Managing Cloud Instances at Scale
+- [x] [**Week 1**](Course_5/Week_1) Automating with Configuration Management
+- [x] [**Week 2**](Course_5/Week_2) Deploying Puppet
+- [x] [**Week 3**](Course_5/Week_3) Automation in the Cloud
+- [x] [**Week 4**](Course_5/Week_4) Managing Cloud Instances at Scale
 
 ### [Course 6&emsp;Automating Real-World Tasks with Python](Course_6/)
 
