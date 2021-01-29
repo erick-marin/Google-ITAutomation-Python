@@ -416,3 +416,57 @@
 [Puppet SSl explained]: https://www.masterzen.fr/2010/11/14/puppet-ssl-explained/
 [Puppet - RSPEC]: https://rspec-puppet.com/tutorial/
 [puppet-lint]: http://puppet-lint.com/
+
+## Managing VMS in GCP
+
+- [Quickstart using a Linux VM]
+- [Creating a VM Instance from an Instance Template]
+- [Google Cloud SDK documentation]
+
+[Quickstart using a Linux VM]: https://cloud.google.com/compute/docs/quickstart-linux
+[Creating a VM Instance from an Instance Template]: https://cloud.google.com/compute/docs/instances/create-vm-from-instance-template
+[Google Cloud SDK documentation]: https://cloud.google.com/sdk/docs
+
+## Automation Cloud Deployments
+
+- [Getting started with Terraform on Google Cloud]
+- [Creating groups of unmanaged instances]
+- [External HTTP(S) Load Balancing overview]
+- [How to Create a Load Balancer on Google Cloud?]
+
+[Getting started with Terraform on Google Cloud]: https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform
+[Creating groups of unmanaged instances]: https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-unmanaged-instances
+[External HTTP(S) Load Balancing overview]: https://cloud.google.com/load-balancing/docs/https/
+[How to Create a Load Balancer on Google Cloud?]: https://geekflare.com/gcp-load-balancer/
+
+## Understanding Limitations
+
+- [GCP Resource quotas]
+- [AWS service quotas]
+- [Azure subscription and service limits, quotas, and constraints]
+
+[Resource quotas]: https://cloud.google.com/compute/quotas#understanding_vm_cpu_and_ip_address_quotas
+[AWS service quotas]: https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
+[Azure subscription and service limits, quotas, and constraints]: https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#service-specific-limits
+
+## Monitoring
+
+- [Monitoring 101: Collecting the right data]
+- [An Introduction to Metrics, Monitoring, and Alerting]
+- [High availabilty (HA)]
+- [Site Reliability Engineering - Books]
+
+[Monitoring 101: Collecting the right data]: https://www.datadoghq.com/blog/monitoring-101-collecting-data/
+[An Introduction to Metrics, Monitoring, and Alerting]: https://www.digitalocean.com/community/tutorials/an-introduction-to-metrics-monitoring-and-alerting
+[High availabilty (HA)]: https://en.wikipedia.org/wiki/High_availability
+[Site Reliability Engineering - Books]: https://sre.google/books/
+
+## Debugging Problems on the Cloud
+
+- [Google - Troubleshooting VM creation]
+- [Microsoft - Troubleshoot Windows virtual machines in Azure]
+- [AWS - Troubleshoot EC2 instances]
+
+[Google - Troubleshooting VM creation]: https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-vm-creation
+[Microsoft - Troubleshoot Windows virtual machines in Azure]: https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/
+[AWS - Troubleshoot EC2 instances]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-troubleshoot.html
