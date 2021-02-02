@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 pandas = "*"
-pillow = "*"
 psutil = "*"
 requests = "*"
 matplotlib = "*"
+pillow = "*"
 
 [dev-packages]
 autopep8 = "*"
