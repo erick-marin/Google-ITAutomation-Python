@@ -80,7 +80,7 @@
 
 ### [Course 6&emsp;Automating Real-World Tasks with Python](Course_6/)
 
-- [ ] [**Week 21**](Course_6/Week_1) Manipulating Images
-- [ ] [**Week 22**](Course_6/Week_2) Interacting with Web Services
-- [ ] [**Week 23**](Course_6/Week_3) Automatic Output Generation
+- [x] [**Week 21**](Course_6/Week_1) Manipulating Images
+- [x] [**Week 22**](Course_6/Week_2) Interacting with Web Services
+- [x] [**Week 23**](Course_6/Week_3) Automatic Output Generation
 - [ ] [**Week 24**](Course_6/Week_4) Putting It All Together
