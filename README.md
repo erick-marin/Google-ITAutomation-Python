@@ -83,4 +83,4 @@
 - [x] [**Week 21**](Course_6/Week_1) Manipulating Images
 - [x] [**Week 22**](Course_6/Week_2) Interacting with Web Services
 - [x] [**Week 23**](Course_6/Week_3) Automatic Output Generation
-- [ ] [**Week 24**](Course_6/Week_4) Putting It All Together
+- [x] [**Week 24**](Course_6/Week_4) Putting It All Together
